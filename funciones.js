@@ -1,4 +1,4 @@
-// Declarativas uuuu
+// Declarativas uuuudfowe
 
 function miFuncion () {
     return 3;
