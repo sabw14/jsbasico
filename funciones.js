@@ -27,3 +27,9 @@ function sumar(a,b) {
     var resultado = a + b;
     return resultado;    
 }
+
+//O se puede hacer asi
+
+function sumar2(a,b) {
+    return a + b;    
+}
